@@ -1,0 +1,15 @@
+ddcfb57652f41b9f85f053852c6605ae *DESCRIPTION
+ef8266a11ba28557c98a34d9013d69ea *LICENSE
+ea8d0fb80e8348c34b61c86e694254f8 *NAMESPACE
+1ec77f63d732dbb43d269953af1eeea5 *R/get.R
+283a1edca7a73b3faf2f1ad3374c55be *R/parse.R
+35a2da2418b9a920a498e9956412ca21 *README.md
+68454530ca38c923cd79376b90e9ac3b *man/figures/logo.png
+51c9011695bb2ccaaa8a6c77481b2cc7 *man/figures/morty.png
+dbe653133cbd13c82e9b688455dba78e *man/figures/rick.png
+195302786644a7d3dd985e0321766293 *man/figures/show-me-what-you-got.png
+25ad360a6f06110ce70f0aff7d13c5bc *man/get_characters.Rd
+f60542ce83082b5c2d4b50cc5e902aa0 *man/get_episodes.Rd
+6adc7038a4a51e5f885c2b8a2370862b *man/get_locations.Rd
+6967333cae798628009066fe3d43c219 *tests/testthat.R
+f0af3db48e04c452b5e0bd4dd79febad *tests/testthat/test_returned_data.R
