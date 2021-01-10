@@ -1,6 +1,6 @@
 Package: mortyr
 Title: Wrapper to 'The Rick and Morty' API
-Version: 0.0.1
+Version: 0.0.2
 Authors@R: person("Michael", "Page", email = "hello@mikejohnpage.com",
     role = c("aut", "cre"))
 Description: Returns information about characters, locations, and episodes from
@@ -12,10 +12,10 @@ Encoding: UTF-8
 LazyData: true
 Imports: httr, jsonlite, tibble
 Suggests: testthat
-RoxygenNote: 6.1.1
+RoxygenNote: 7.1.1
 NeedsCompilation: no
-Packaged: 2019-07-19 08:08:29 UTC; mike
+Packaged: 2021-01-09 20:57:13 UTC; mike
 Author: Michael Page [aut, cre]
 Maintainer: Michael Page <hello@mikejohnpage.com>
 Repository: CRAN
-Date/Publication: 2019-07-19 09:30:02 UTC
+Date/Publication: 2021-01-10 14:30:08 UTC
